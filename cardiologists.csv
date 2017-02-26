@@ -1,0 +1,104 @@
+,id,name,categories,address,city,postal_code,state,latitude,longitude
+0,vimal-nanavati-md-facc-bonita,"Vimal Nanavati, MD, FACC",cardiologists,[180 Otay Lakes Rd],Bonita,91902,CA,32.6592822,-117.0310905
+1,moussavian-mehran-do-cardiovascular-institute-of-san-diego-chula-vista,"Moussavian Mehran, DO - Cardiovascular Institute of San Diego",cardiologists,"[765 Medical Center Ct, Ste 211]",Chula Vista,91911,CA,32.61907,-117.0208894
+2,juarez-uribe-joel-md-chula-vista,"Juarez-Uribe Joel, MD",cardiologists,"[750 Medical Ctr Ct, Ste 14]",Chula Vista,91911,CA,32.6179084778,-117.023696899
+3,lin-yuan-h-md-chula-vista,"Lin Yuan H, MD",cardiologists,[765 Medical Ctr Ct],Chula Vista,91911,CA,32.6188468933,-117.020233154
+4,cardiovascular-institute-of-san-diego-chula-vista,Cardiovascular Institute Of San Diego,cardiologists,[754 Medical Center Ct],Chula Vista,91911,CA,32.617473,-117.023483
+5,san-diego-vein-specialists-chula-vista-4,San Diego Vein Specialists,cardiologists,"[765 Medical Center Ct, Ste 211]",Chula Vista,91911,CA,32.6188468933,-117.020233154
+6,childrens-medical-group-of-south-bay-chula-vista,Children's Medical Group of South Bay,cardiologists,[280 E St],Chula Vista,91910,CA,32.6447296,-117.0803986
+7,bonita-acupuncture-clinic-bonita-2,Bonita Acupuncture Clinic,cardiologists,[4392 Bonita Rd],Bonita,91902,CA,32.6608693,-117.0324757
+8,sharp-chula-vista-medical-center-chula-vista-6,Sharp Chula Vista Medical Center,cardiologists,[751 Medical Center Ct],Chula Vista,91911,CA,32.618850708,-117.022674561
+9,jeannette-del-valle-md-chula-vista,JEANNETTE DEL VALLE MD,cardiologists,[754 Medical Center Ct],Chula Vista,91911,CA,32.617405,-117.023483
+10,sharp-rees-stealy-otay-ranch-chula-vista-2,Sharp Rees-Stealy Otay Ranch,cardiologists,[1400 E Palomar St],Chula Vista,91913,CA,32.62292,-116.99575
+11,bajo-philip-b-md-chula-vista,Bajo Philip B MD,cardiologists,[750 Medical Center Ct Ste 3],Chula Vista,91911,CA,32.617908,-117.023696
+12,sharf-albert-md-national-city,"Sharf Albert, MD",cardiologists,"[655 Euclid Ave, Ste 304]",National City,91950,CA,32.6834869,-117.0825119
+13,szkopiec-roman-l-md-chula-vista,"Szkopiec Roman L, MD",cardiologists,"[480 4th Ave, Ste 401]",Chula Vista,91910,CA,32.63403,-117.0822
+14,robinson-jerome-a-md-national-city,"Robinson Jerome A, MD",cardiologists,"[655 Euclid Ave, Ste 305]",National City,91950,CA,32.6834869,-117.0825119
+15,polak-lucy-md-chula-vista,"Polak Lucy, MD",cardiologists,"[480 4th Ave, Ste 202]",Chula Vista,91910,CA,32.63403,-117.0822
+16,paradise-valley-hospital-national-city,Paradise Valley Hospital,cardiologists,[2400 E 4th St],National City,91950,CA,32.68562,-117.08221
+17,scripps-mercy-hospital-chula-vista-chula-vista,Scripps Mercy Hospital Chula Vista,cardiologists,[435 H St],Chula Vista,91910,CA,32.6337585,-117.0831528
+18,community-health-group-chula-vista,Community Health Group,cardiologists,[740 Bay Blvd],Chula Vista,91910,CA,32.6204299927,-117.093955994
+19,scripps-coastal-medical-center-eastlake-chula-vista-2,Scripps Coastal Medical Center Eastlake,cardiologists,[971 Lane Ave],Chula Vista,91914,CA,32.6507720947,-116.960762024
+20,precision-research-institute-san-diego,Precision Research Institute,cardiologists,"[292 Euclid Ave, Ste 115]",San Diego,92114,CA,32.7072105408,-117.08581543
+21,lilley-john-j-md-escondido,Lilley John J MD,cardiologists,[625 E Grand Ave],Escondido,92025,CA,33.1244277954,-117.073417664
+22,escondido-cardiology-associates-escondido-2,Escondido Cardiology Associates,cardiologists,[1955 Citracado Pkwy],Escondido,92029,CA,33.1131516,-117.1208725
+23,palomar-medical-group-escondido-3,Palomar Medical Group,cardiologists,[625 E Grand Ave],Escondido,92025,CA,33.1241658295,-117.073181113
+24,malek-mikhail-r-md-facc-escondido,Malek Mikhail R MD Facc,cardiologists,[488 E Valley Pkwy Ste 201],Escondido,92025,CA,33.12561,-117.07738
+25,scripps-coastal-medical-center-escondido-escondido,Scripps Coastal Medical Center Escondido,cardiologists,"[488 E Valley Pkwy, Ste 411]",Escondido,92025,CA,33.12561,-117.07738
+26,palomar-medical-center-escondido-5,Palomar Medical Center,cardiologists,[2185 Citracado Pkwy],Escondido,92029,CA,33.1220817566,-117.120391846
+27,palomar-health-downtown-campus-escondido,Palomar Health Downtown Campus,cardiologists,[555 E Valley Pkwy],Escondido,92025,CA,33.1213697898,-117.120891346
+28,gregory-a-langford-md-facog-escondido,"Gregory A. Langford, MD, FACOG",cardiologists,"[488 E Valley Pkwy, Ste 107]",Escondido,92025,CA,33.12561,-117.07738
+29,dreamscape-dental-san-marcos,Dreamscape Dental,cardiologists,[467 N Twin Oaks Valley Rd],San Marcos,92069,CA,33.146092,-117.162011
+30,chavira-alberto-md-san-marcos,"Chavira Alberto, MD",cardiologists,"[334 Via Vera Cruz, Ste 257]",San Marcos,92078,CA,33.136765,-117.189445
+31,medical-group-of-north-county-vista,Medical Group of North County,cardiologists,"[910 Sycamore Ave, Ste 270]",Vista,92081,CA,33.1596794,-117.2196808
+32,ludington-katherine-md-facc-encinitas,Ludington Katherine MD FACC,cardiologists,[4401 Manchester Ave Ste 103],Encinitas,92024,CA,33.0361519,-117.2398224
+33,north-coast-cardiology-encinitas,North Coast Cardiology,cardiologists,[4401 Manchester Ave Ste 106],Encinitas,92024,CA,33.0361519,-117.2398224
+34,acuheart-integrative-acupuncture-and-functional-medicine-del-mar,Acuheart Integrative Acupuncture & Functional Medicine,cardiologists,"[910 Camino Del Mar, Ste H]",Del Mar,92014,CA,32.9533019162,-117.263381244
+35,scripps-clinic-carmel-valley-san-diego-2,Scripps Clinic Carmel Valley,cardiologists,[3811 Valley Centre Dr],San Diego,92130,CA,32.9367370605,-117.232093811
+36,elizabeth-wilbur-san-diego,Elizabeth Wilbur,cardiologists,[13171 Sunstone Pointe],San Diego,92130,CA,32.9600448608,-117.196502686
+37,changes-plastic-surgery-and-spa-san-diego-2,Changes Plastic Surgery & Spa,cardiologists,"[11515 El Camino Real, Ste 150]",San Diego,92130,CA,32.9279129,-117.237585
+38,penasquitos-pet-clinic-san-diego,Penasquitos Pet Clinic,cardiologists,"[9728 Carmel Mountain Rd, Ste E]",San Diego,92129,CA,32.96223,-117.1172
+39,scripps-ranch-veterinary-hospital-san-diego-2,Scripps Ranch Veterinary Hospital,cardiologists,[9990 Scripps Ranch Blvd],San Diego,92131,CA,32.9027806585,-117.099669346
+40,l-and-l-hawaiian-barbecue-san-diego,L&L Hawaiian Barbecue,cardiologists,"[Mira Mesa Mall, 8280-A Mira Mesa Blvd]",San Diego,92126,CA,32.914745,-117.146077
+41,prebys-cardiovascular-institute-san-diego,Prebys Cardiovascular Institute,cardiologists,[9896 Genesee Ave],San Diego,92037,CA,32.886316,-117.224481
+42,sulpizio-cardiovascular-center-la-jolla,Sulpizio Cardiovascular Center,cardiologists,[9434 Medical Center Dr],La Jolla,92037,CA,32.8788089039,-117.226072088
+43,higgins-steven-l-md-facc-la-jolla,Higgins Steven L MD Facc,cardiologists,[9850 Genesee Ave Ste 940],La Jolla,92037,CA,32.8829078674,-117.226341248
+44,carson-john-c-md-facp-la-jolla,Carson John C MD Facp,cardiologists,[9834 Genesee Ave Ste 300],La Jolla,92037,CA,32.8839988708,-117.225799561
+45,san-diego-cardiovascular-la-jolla,San Diego Cardiovascular,cardiologists,[9834 Genesee Ave Ste 300],La Jolla,92037,CA,32.8839988708,-117.225799561
+46,scripps-clinic-john-r-anderson-v-medical-pavilion-san-diego,"Scripps Clinic, John R. Anderson V Medical Pavilion",cardiologists,[9898 Genesee Ave],San Diego,92037,CA,32.8866223991,-117.225407884
+47,mitul-p-patel-md-la-jolla,"Mitul P. Patel, MD",cardiologists,[9434 Medical Center Dr],La Jolla,92037,CA,32.8772277,-117.2250448
+48,motwani-lasik-institute-san-diego,Motwani Lasik Institute,cardiologists,"[4520 Executive Dr, Ste 230]",San Diego,92121,CA,32.8758024,-117.2101572
+49,shaft-medical-san-diego-san-diego-3,Shaft Medical San Diego,cardiologists,"[8910 University Ctr Ln, Ste 648]",San Diego,92122,CA,32.8707314,-117.2270508
+50,brant-c-liu-m-d-la-jolla,"Brant C Liu, M.D.",cardiologists,"[Kaiser Permanente Scripps Cardiology Office, 9834 Genesee Ave, Suite 114]",La Jolla,92037,CA,32.8839988708,-117.225799561
+51,infinite-smiles-family-and-cosmetic-dentistry-san-diego,Infinite Smiles Family & Cosmetic Dentistry,cardiologists,"[5440 Morehouse Dr, Ste 1800]",San Diego,92121,CA,32.8941803,-117.2010269
+52,scripps-clinic-torrey-pines-la-jolla-2,Scripps Clinic Torrey Pines,cardiologists,[10666 N Torrey Pines Rd],La Jolla,92037,CA,32.8886149532,-117.233659029
+53,san-diego-va-medical-center-san-diego,San Diego VA Medical Center,cardiologists,[3350 La Jolla Village Dr],San Diego,92161,CA,32.8756058735,-117.232282934
+54,david-a-newman-md-facs-san-diego-2,"David A Newman, MD FACS",cardiologists,"[4275 Executive Square, Ste 200]",San Diego,92037,CA,32.8734855652,-117.214698792
+55,the-ucsd-neurological-institute-chancellor-park-san-diego,The UCSD Neurological Institute - Chancellor Park,cardiologists,"[4510 Executive Dr, Ste 325]",San Diego,92121,CA,32.8761597,-117.210762
+56,los-jilbertos-borrego-springs,Los Jilbertos,cardiologists,[655 Palm Canyon Dr],Borrego Springs,92004,CA,33.2563,-116.37697
+57,pho-superbowl-el-cajon-2,Pho Superbowl,cardiologists,[382 N 2nd St],El Cajon,92021,CA,32.7992818,-116.9358849
+58,zavaro-cardiovascular-institute-la-mesa-2,Zavaro Cardiovascular Institute,cardiologists,"[5525 Grossmont Center Dr, Ste 606]",La Mesa,91942,CA,32.7928242,-116.9782786
+59,ronald-k-goldberg-md-facc-la-mesa-cardiac-center-la-mesa,"Ronald K. Goldberg, MD FACC -  La Mesa Cardiac Center",cardiologists,"[5565 Grossmont Center Dr, Building 3, Ste 455]",La Mesa,91942,CA,32.78075,-117.00974
+60,rapeport-medical-corporation-la-mesa,Rapeport Medical Corporation,cardiologists,"[8851 Center Dr, Ste 401]",La Mesa,91942,CA,32.782032,-117.0070419
+61,koumjian-michael-p-md-la-mesa,"Koumjian, Michael P, MD",cardiologists,[5525 Grossmont Center Dr],La Mesa,91942,CA,32.7791939,-117.0083466
+62,sharp-grossmont-hospital-la-mesa-3,Sharp Grossmont Hospital,cardiologists,[5555 Grossmont Center Dr],La Mesa,91942,CA,32.7813277336,-117.006705033
+63,triwest-research-associates-el-cajon,Triwest Research Associates,cardiologists,"[300 S Pierce St, Ste 201]",El Cajon,92020,CA,32.792953,-116.978524
+64,scripps-clinic-rancho-san-diego-calle-verde-la-mesa,Scripps Clinic Rancho San Diego - Calle Verde,cardiologists,[10862 Calle Verde],La Mesa,91941,CA,32.74884,-116.96001
+65,partners-urgent-care-la-mesa,Partners Urgent Care,cardiologists,[6136 Lake Murray Rd],La Mesa,91942,CA,32.7907790244,-117.020861953
+66,wayne-whitwam-md-fallbrook,"Wayne Whitwam, MD",cardiologists,[521 E Elder St],Fallbrook,92028,CA,33.379673,-117.246407
+67,fallbrook-healthcare-partners-fallbrook,Fallbrook Healthcare Partners,cardiologists,"[591 E Elder St, Ste C]",Fallbrook,92028,CA,33.3800681,-117.2455179
+68,john-carson-la-jolla,John Carson,cardiologists,"[9834 Genesee Ave, Ste 300]",La Jolla,92037,CA,32.8839988708,-117.225799561
+69,pacific-pearl-la-jolla-la-jolla-2,Pacific Pearl La Jolla,cardiologists,[6919 La Jolla Blvd],La Jolla,92037,CA,32.8322868347,-117.276435852
+70,boone-gary-md-san-diego,"Boone Gary, MD",cardiologists,"[3737 Moraga Ave, Ste B-408]",San Diego,92117,CA,32.80937,-117.21014
+71,lien-on-me-acupuncture-pacific-beach,Lien On Me Acupuncture,cardiologists,"[Hilton San Diego Resort & Spa, 1775 E Mission Bay Dr]",Pacific Beach,92109,CA,32.7792279,-117.2102886
+72,scripps-green-hospital-la-jolla,Scripps Green Hospital,cardiologists,[10666 N Torrey Pines Rd],La Jolla,92037,CA,32.898705,-117.242814
+73,scripps-center-for-integrative-medicine-san-diego,Scripps Center For Integrative Medicine,cardiologists,[10820 N Torrey Pines Rd],San Diego,92037,CA,32.9000663757,-117.243370056
+74,copans-harold-md-san-diego,"Copans Harold, MD",cardiologists,"[5555 Reservoir Dr, Ste 112]",San Diego,92120,CA,32.7762985,-117.056221
+75,katz-richard-a-md-cardiologist-san-diego,Katz Richard A MD Cardiologist,cardiologists,"[5555 Reservoir Drive, Suite 112]",San Diego,92120,CA,32.7762985,-117.056221
+76,razi-bijan-md-san-diego,"Razi Bijan, MD",cardiologists,"[5555 Reservoir Dr, Ste 100]",San Diego,92120,CA,32.7762985,-117.056221
+77,pitt-william-a-md-san-diego,"Pitt William A, MD",cardiologists,[6386 Alvarado Ct],San Diego,92120,CA,32.7763824463,-117.060577393
+78,alvarado-hospital-medical-center-san-diego-7,Alvarado Hospital Medical Center,cardiologists,[6655 Alvarado Rd],San Diego,92120,CA,32.7765081,-117.0572965
+79,gross-steven-a-md-san-diego,Gross Steven A MD,cardiologists,[6386 Alvarado Court],San Diego,92120,CA,32.7763824463,-117.060577393
+80,young-thomas-r-md-san-diego,Young Thomas R MD,cardiologists,[5555 Reservoir Dr Ste 112],San Diego,92120,CA,32.7763433754,-117.056322768
+81,jacob-healthcare-center-san-diego,Jacob Healthcare Center,cardiologists,[4075 54th St],San Diego,92105,CA,32.7502912156,-117.077735963
+82,william-d-keen-m-d-san-diego,"William D Keen, M.D.",cardiologists,"[Kaiser Permanente San Diego Hospital Bldg, 4647 Zion Ave]",San Diego,92120,CA,32.791325,-117.095238
+83,jeffrey-j-cavendish-m-d-san-diego,"Jeffrey J Cavendish, M.D.",cardiologists,"[Kaiser Permanente San Diego Hospital Bldg, 4647 Zion Ave]",San Diego,92120,CA,32.791325,-117.095238
+84,bahram-khadivi-m-d-san-diego,"Bahram Khadivi, M.D.",cardiologists,"[Kaiser Permanente San Diego Hospital Bldg, 4647 Zion Ave]",San Diego,92120,CA,32.791325,-117.095238
+85,kaiser-permanente-san-diego-medical-center-san-diego,Kaiser Permanente San Diego Medical Center,cardiologists,[4647 Zion Avenue],San Diego,92120,CA,32.79126,-117.09523
+86,city-heights-family-health-center-san-diego,City Heights Family Health Center,cardiologists,[5454 El Cajon Blvd],San Diego,92115,CA,32.7583618164,-117.077812195
+87,california-coastal-cardiology-vista,California Coastal Cardiology,cardiologists,[1235 W Vista Way],Vista,92083,CA,33.1940689,-117.2678909
+88,sarkaria-paul-d-md-oceanside,Sarkaria Paul D MD,cardiologists,[3230 Waring Ct Ste O],Oceanside,92056,CA,33.1871528625,-117.290542603
+89,kenneth-carr-md-carr-cardiology-oceanside,"Kenneth Carr, MD - Carr Cardiology",cardiologists,[3998 Vista Way],Oceanside,92056,CA,33.1841666,-117.2926961
+90,matthews-a-oscar-md-vista,"Matthews A Oscar, MD",cardiologists,"[2095 W Vista Way, Ste 107]",Vista,92083,CA,33.1849250793,-117.28754425
+91,orr-w-robert-md-oceanside,"Orr W Robert , MD",cardiologists,"[2424 Vista Way, Ste 300]",Oceanside,92054,CA,33.183777,-117.335472
+92,tri-city-medical-center-oceanside-3,Tri-City Medical Center,cardiologists,[4002 Vista Way],Oceanside,92056,CA,33.1842499,-117.2917786
+93,robert-ziering-md-vista,"Robert Ziering, MD",cardiologists,"[2067 W Vista Way, Ste 140]",Vista,92083,CA,33.185822,-117.286545
+94,vista-community-clinic-oceanside,Vista Community Clinic,cardiologists,[818 Pier View Way],Oceanside,92054,CA,33.1986236572,-117.377609253
+95,naval-hospital-camp-pendleton-camp-pendleton,Naval Hospital Camp Pendleton,cardiologists,[200 Mercy Cir],Camp Pendleton,92055,CA,33.221303819,-117.389274131
+96,la-hacienda-restaurant-and-party-hall-oceanside,La Hacienda Restaurant & Party Hall,cardiologists,[300 Douglas Dr],Oceanside,92058,CA,33.23298,-117.32393
+97,pit-stop-diner-oceanside,Pit Stop Diner,cardiologists,"[3825 Mission Ave, Ste D1]",Oceanside,92058,CA,33.2259000486,-117.330345551
+98,organizational-leadership-consulting-san-diego,Organizational Leadership Consulting,cardiologists,[],San Diego,92116,CA,32.7648887634,-117.122993469
+99,sharp-rees-stealy-rancho-bernardo-san-diego-4,Sharp Rees-Stealy Rancho Bernardo,cardiologists,[16950 Via Tazon],San Diego,92127,CA,33.021900177,-117.086540222
+100,arch-health-partners-poway,Arch Health Partners,cardiologists,"[15611 Pomerado Rd, Fl 3 and 4]",Poway,92064,CA,32.997375,-117.054938
+101,scripps-clinic-rancho-bernardo-san-diego-2,Scripps Clinic Rancho Bernardo,cardiologists,[15004 Innovation Dr],San Diego,92128,CA,32.9892463684,-117.077667236
+102,rb-spine-center-san-diego,RB Spine Center,cardiologists,"[10801 Thornmint Rd, Ste 250]",San Diego,92127,CA,33.0165252686,-117.101409912
