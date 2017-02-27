@@ -1,6 +1,8 @@
 
 # San Diego Hearts
-![](https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/coronyHeartDiseaseRate.png)
+<a href="https://sandiegohearts.github.io/">
+<img src="https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/coronyHeartDiseaseRate.png" alt="Go to San Diego Hearts Website">
+</a>
 <br />
 We designed an interactive website ([sandiegohearts.github.io](https://sandiegohearts.github.io/ "San Diego Hearts")) that examined the factors contributing to varying heart disease rates across San Diego to 
 recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
