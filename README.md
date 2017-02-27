@@ -1,14 +1,14 @@
 
 # San Diego Hearts
-![](https://github.com/BigDataForSanDiego/2017-Team-203/blob/master/Images/coronyHeartDiseaseRate.png)
+![](https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/coronyHeartDiseaseRate.png)
 <br />
 We designed an interactive website ([sandiegohearts.github.io](https://sandiegohearts.github.io/ "San Diego Hearts")) that examined the factors contributing to varying heart disease rates across San Diego to 
 recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
 
 ## Awards
-![2nd Place](https://github.com/BigDataForSanDiego/2017-Team-203/blob/master/Images/coronyHeartDiseaseRate.png)
-2nd place at the San Diego Big Data Hackathon </br>
-[Official Hackathon Site](http://bigdataforsandiego.github.io/ "Official Site")
+![2nd Place](https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/group.png)
+2nd place at the 2017 San Diego Big Data Hackathon </br>
+
 ## Presentations
 What is it? | Powerpoint/Word | PDF
 --- | --- | ---
@@ -32,6 +32,7 @@ Anyone may contribute to our project. Submit a pull request.
 ## Useful Links
 What is it? | Why is it Useful? | Link to Item
 --- | --- | ---
+Official Site | Website |  [Official Hackathon Site](http://bigdataforsandiego.github.io/ "Official Site")
 Competition Github Repo | Repo |  [Repo Link](https://github.com/BigDataForSanDiego "Click to go to Repo")
 Tableau Examples |  Dashboards to Model |  [Hospital and Regional San Diego Dashboards](http://public.tableau.com/profile/leo.castaneda#!/ "San Diego Dashboards.R")
 Project Proposal Template | Need to fill out |  [Template Link](https://github.com/BigDataForSanDiego/2017-Team-203/blob/master/Proposal/2017%20BIG%20DATA%20HACKATHON%20PROPOSAL%20FORM.doc "Project Proposal Template")
