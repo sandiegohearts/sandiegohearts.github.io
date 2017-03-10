@@ -9,6 +9,21 @@ recommend ways to bring down the rates in the high risk areas. The goal is to he
 </br>
 To Download the Zip File with the IPython Integration [Click Here](https://github.com/sandiegohearts/sandiegohearts.github.io/raw/master/TabPy/SanDiegoMapping_PythonIntegration.zip)
 
+
+# TabPy Machine Learning Integration
+<a href="https://github.com/sandiegohearts/sandiegohearts.github.io/tree/master/TabPy">
+<img src="https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/TabPy/TabPy.PNG" alt="Go to San Diego Hearts Website">
+</a>
+
+<br />
+
+What is it? | Why is it Useful? | Link to Item
+--- | --- | ---
+Machine Learning IPython Notebook | Predicting Heart Disease |  [IPython Notebook](https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/TabPy/HD%20ML%20Example.ipynb "Machine Learning IPython Notebook")
+Download Tableau Workbook + Associated Files | You need it for Python Integration to this dashboard |  [Download Zipfile](https://github.com/sandiegohearts/sandiegohearts.github.io/raw/master/TabPy/SanDiegoMapping_PythonIntegration.zip "Download Zipfile")
+Youtube Video (Coming Soon) | Show people how to use TabPy | Coming Soon
+
+
 ## Awards
 ![2nd Place](https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/Images/group.png)
 2nd place at the 2017 San Diego Big Data Hackathon </br>
