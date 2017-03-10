@@ -6,13 +6,13 @@
 We designed an interactive website ([sandiegohearts.github.io](https://sandiegohearts.github.io/ "San Diego Hearts")) that examined the factors contributing to varying heart disease rates across San Diego to 
 recommend ways to bring down the rates in the high risk areas. The goal is to help the potential users to make better decisions to run the campaigns and channelize the funds to the right regions.
 </br>
-To Download the Zip File with the IPython Integration [Click Here](https://github.com/sandiegohearts/sandiegohearts.github.io/raw/master/TabPy/SanDiegoMapping_PythonIntegration.zip)
 
 # TabPy Machine Learning Integration
 <a href="https://github.com/sandiegohearts/sandiegohearts.github.io/tree/master/TabPy">
 <img src="https://github.com/sandiegohearts/sandiegohearts.github.io/blob/master/TabPy/TabPy.PNG" alt="Go to San Diego Hearts Website">
 </a>
-<br />
+</br>
+Currently, having tableau public connect to TabPy is being worked on by Tableau ([Issue on TabPy Github](https://github.com/tableau/TabPy/issues/25)). In result, this isn't on the website, but the workbook with the TabPy integration is available for download on this github (see the link below). 
 
 What is it? | Why is it Useful? | Link to Item
 --- | --- | ---
