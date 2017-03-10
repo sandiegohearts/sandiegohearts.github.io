@@ -44,7 +44,7 @@ Submit  |  Pull Request | <youremailhere@gmail.com>
 ## Useful Links
 What is it? | Why is it Useful? | Link to Item
 --- | --- | ---
-Making sandiegohearts.github.io | Launching of the Website Process |  [Youtube Video](https://www.youtube.com/watch?v=OHsVCP7NEbc "Making github.io site")
+Making sandiegohearts.github.io | Launching of the Website |  [Youtube Video](https://www.youtube.com/watch?v=OHsVCP7NEbc "Making github.io site")
 Official Site | Website |  [Official Hackathon Site](http://bigdataforsandiego.github.io/ "Official Site")
 Competition Github Repo | Repo |  [Repo Link](https://github.com/BigDataForSanDiego "Click to go to Repo")
 
